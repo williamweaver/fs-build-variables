@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<manifest>
+  <package name="fmodstudio" license="fmodstudio">
+    <platform name="windows64">
+      <url>https://raw.githubusercontent.com/williamweaver/fs-build-variables/master/packages/fmodstudio/fmodstudio-2.02.27-windows64-250522102.tar.bz2</url>
+      <hash alg="sha256">aa901010db7d226a791683481139c44e652313cc44a70b2c1dcf4a0beee6dd61</hash>
+      <version>2.02.27</version>
+    </platform>
+  </package>
+</manifest>
